@@ -1,0 +1,15 @@
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\bin\Debug\net5.0\TaskCoreAPI.Entity.deps.json
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\bin\Debug\net5.0\TaskCoreAPI.Entity.runtimeconfig.json
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\bin\Debug\net5.0\TaskCoreAPI.Entity.runtimeconfig.dev.json
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\bin\Debug\net5.0\TaskCoreAPI.Entity.dll
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\bin\Debug\net5.0\ref\TaskCoreAPI.Entity.dll
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\bin\Debug\net5.0\TaskCoreAPI.Entity.pdb
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\obj\Debug\net5.0\TaskCoreAPI.Entity.csproj.AssemblyReference.cache
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\obj\Debug\net5.0\TaskCoreAPI.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\obj\Debug\net5.0\TaskCoreAPI.Entity.AssemblyInfoInputs.cache
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\obj\Debug\net5.0\TaskCoreAPI.Entity.AssemblyInfo.cs
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\obj\Debug\net5.0\TaskCoreAPI.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\obj\Debug\net5.0\TaskCoreAPI.Entity.dll
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\obj\Debug\net5.0\ref\TaskCoreAPI.Entity.dll
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\obj\Debug\net5.0\TaskCoreAPI.Entity.pdb
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Entity\obj\Debug\net5.0\TaskCoreAPI.Entity.genruntimeconfig.cache

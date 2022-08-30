@@ -1,0 +1,15 @@
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\bin\Debug\net5.0\TaskCore.Business.deps.json
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\bin\Debug\net5.0\TaskCore.Business.runtimeconfig.json
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\bin\Debug\net5.0\TaskCore.Business.runtimeconfig.dev.json
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\bin\Debug\net5.0\TaskCore.Business.dll
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\bin\Debug\net5.0\ref\TaskCore.Business.dll
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\bin\Debug\net5.0\TaskCore.Business.pdb
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\obj\Debug\net5.0\TaskCore.Business.csproj.AssemblyReference.cache
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\obj\Debug\net5.0\TaskCore.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\obj\Debug\net5.0\TaskCore.Business.AssemblyInfoInputs.cache
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\obj\Debug\net5.0\TaskCore.Business.AssemblyInfo.cs
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\obj\Debug\net5.0\TaskCore.Business.csproj.CoreCompileInputs.cache
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\obj\Debug\net5.0\TaskCore.Business.dll
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\obj\Debug\net5.0\ref\TaskCore.Business.dll
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\obj\Debug\net5.0\TaskCore.Business.pdb
+C:\Users\ferid\source\repos\TaskCoreAPI\TaskCoreAPI.Business\obj\Debug\net5.0\TaskCore.Business.genruntimeconfig.cache
